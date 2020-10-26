@@ -1,2 +1,5 @@
-# cmg
-Controlled Molecule Generation via Self-Attention based Translation
+# CMG
+Controlled Molecule Generator for for Optimizing Multiple Chemical Properties
+
+
+
